@@ -49,7 +49,7 @@ Vejamos a funcionalidade de legendagem de imagem do Azure AI Vision. As legendas
 
 1. Na página inicial **Get started with Vision**, selecione a guia **Image analysis** e selecione o bloco **add captions to images**. ![image](https://github.com/r2WillDev/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/106842143/34a42240-b62c-4a71-90cb-f37cc139d7de)
 2. No subtítulo **Try it out**, reconheça a política de uso de recursos lendo e marcando a caixa. ![image](https://github.com/r2WillDev/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/106842143/19eee724-36b1-415e-86d3-86ddd33320ab)
-3. Selecione cada uma das imagens de amostra ou faça upload de algum arquivo e observe os dados de detecção de rosto retornos.
+3. Selecione cada uma das imagens de amostra ou faça upload de algum arquivo e observe as legendas geradas para cada imagem.
 4. Observe o texto da legenda gerado, visível no painel Atributos detectados à direita da imagem. A funcionalidade Legenda fornece uma única frase em inglês legível por humanos que descreve o conteúdo da imagem.![image](https://github.com/r2WillDev/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/106842143/7d45a255-b8c7-4c07-b67d-4e19b14c28a6)
 
 ## Extrair texto de imagens no Vision Studio
