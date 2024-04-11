@@ -58,7 +58,7 @@ Vejamos a funcionalidade de legendagem de imagem do Azure AI Vision. As legendas
 2. No subtítulo **Try it out**, reconheça a política de uso de recursos lendo e marcando a caixa. ![image](https://github.com/r2WillDev/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/106842143/d18ff0c6-9225-4473-8242-af8049fff150)
 3. Selecione cada uma das imagens de amostra ou faça upload de algum arquivo e Agora reveja o que é devolvido:
    - Em Atributos detectados, qualquer texto encontrado na imagem é organizado em uma estrutura hierárquica de regiões, linhas e palavras.
-   - Na imagem, a localização do texto é indicada por uma caixa delimitadora, como mostrado aqui: ![image](https://github.com/r2WillDev/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/106842143/f79e5bf5-2691-4160-aae9-0b394848c4f2)]
+   - Na imagem, a localização do texto é indicada por uma caixa delimitadora, como mostrado aqui: ![image](https://github.com/r2WillDev/Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/106842143/f79e5bf5-2691-4160-aae9-0b394848c4f2)
   
 # Apagar
 Se você não pretende fazer mais exercícios, exclua todos os recursos que não são mais necessários. Isso evita o acúmulo de custos desnecessários.
